@@ -2,9 +2,6 @@
 ### 👋 Hi, I’m @AbdullahAldakheel
 
 
-
-- 🌱 I’m currently learning -> K8s, Golang
-
 <!--
 **AbdullahAldakheel/AbdullahAldakheel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
